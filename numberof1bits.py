@@ -26,7 +26,7 @@ def hammingWeight(n):
             
     return count
     
-print(hammingWeight(-569))
+print(hammingWeight(69))
      
             
         
